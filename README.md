@@ -1,1 +1,1 @@
-# Foodizo
+# Foodizo Food Ordering Web Application 
